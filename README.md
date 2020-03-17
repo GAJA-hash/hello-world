@@ -4,4 +4,4 @@ Hi all
 I am here to learn and practice  python language.
 
 
-I'm using the e book
+I'm using some e books and tutorial
