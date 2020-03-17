@@ -1,2 +1,7 @@
 # hello-world
-my first repository
+
+Hi all
+I am here to learn and practice  python language.
+
+
+I'm using the e book
